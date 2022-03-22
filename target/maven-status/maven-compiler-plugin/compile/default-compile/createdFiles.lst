@@ -1,0 +1,11 @@
+TMS_course\TMS_ToDOList\security\UserAuthService.class
+TMS_course\TMS_ToDOList\controllers\TodoController.class
+TMS_course\TMS_ToDOList\representation\UserRepr.class
+TMS_course\TMS_ToDOList\security\SecurityWebApplicationInitializer.class
+TMS_course\TMS_ToDOList\service\UserService.class
+TMS_course\TMS_ToDOList\persistense\entity\User.class
+TMS_course\TMS_ToDOList\TmsToDoListApplication.class
+TMS_course\TMS_ToDOList\controllers\LoginController.class
+TMS_course\TMS_ToDOList\security\SecurityConfig.class
+TMS_course\TMS_ToDOList\representation\TodoRepr.class
+TMS_course\TMS_ToDOList\persistense\repository\UserRepository.class
